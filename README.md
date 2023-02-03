@@ -1,2 +1,2 @@
 # Solar-System-Simulation
-A simulation of the sun, the earth and the moon (not to scale). Made using OpenGL in C++.
+A simulation of the sun, the earth and the moon (not to scale). Made using OpenGL in C++. Skeleton code was provided in order to create the window and camera (which had been done in a previous assignment). The primary code, which includes generating the spheres, applying the textures to the shapes, and using the shaders as part of the viewing pipeline, were all done by me.
